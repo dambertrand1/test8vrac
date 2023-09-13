@@ -28,8 +28,8 @@ def generate_graph():
 
         # Define node color attributes
         node_color = {
-            "background": "#4F81BD",  
-            "border": "#2C3E50",  
+            "background": "#00aeef",  
+            "border": "#00395d",  
             "highlight": {  
                 "background": "blue", 
                 "border": "dark blue"
